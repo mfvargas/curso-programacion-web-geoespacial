@@ -2,7 +2,7 @@
 title: La Internet y la Web
 ---
 
-## La Internet y la Web
+## Internet y la Web
 
 ### Diapositivas
 
