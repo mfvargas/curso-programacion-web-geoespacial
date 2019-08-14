@@ -3,7 +3,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 Se recomienda acceder al curso a través de la dirección [https://mfvargas.github.io/curso-programacion-web-geoespacial/](https://mfvargas.github.io/curso-programacion-web-geoespacial/).
 
 ### Contenido
-1. [La Internet y la Web](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/internet-web.html)
+1. [Internet y la Web](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/internet-web.html)
 2. [HTML](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/html.html)
 
 ### Programa del curso
