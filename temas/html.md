@@ -10,6 +10,6 @@ title: HTML
 
 ### Materiales adicionales
 
-Referencia sobre HTML: [HTML - Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
+Referencia sobre HTML: [Mozilla Developer Network - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
-Tutoriales y referencia sobre HTML: [HTML - W3Schools](https://www.w3schools.com/html/)
+Tutoriales y referencia sobre HTML: [W3Schools - HTML](https://www.w3schools.com/html/)
