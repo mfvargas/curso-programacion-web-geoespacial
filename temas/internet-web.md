@@ -6,7 +6,7 @@ title: La Internet y la Web
 
 ### Diapositivas
 
-- [HTML](../diapositivas/internet-web.html)
+- [HTML](https://mfvargas.github.io/pres-internet-web/)
 
 ### Materiales adicionales
 
