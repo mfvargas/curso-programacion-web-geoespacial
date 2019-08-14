@@ -2,6 +2,8 @@
 title: La Internet y la Web
 ---
 
+## La Internet y la Web
+
 ### Diapositivas
 
 - [html](../diapositivas/internet-web.html)
