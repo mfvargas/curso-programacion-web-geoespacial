@@ -6,7 +6,7 @@ title: HTML
 
 ### Diapositivas
 
-- [HTML](../diapositivas/html.html)
+- [HTML](https://mfvargas.github.io/pres-html/)
 
 ### Materiales adicionales
 
