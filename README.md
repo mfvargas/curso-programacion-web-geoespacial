@@ -2,7 +2,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 ### Contenido
 1. [La Internet y la Web](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/internet-web.html)
-2. [HTML]()
+2. [HTML](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/internet-web.html)
 
 ### Programa del curso
 
