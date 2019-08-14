@@ -1,7 +1,7 @@
 Este es un curso introductorio a la programación de aplicaciones geoespaciales en la Web, el cual forma parte del programa interuniversitario de [Maestría en Sistemas de Información Geográfica y Teledetección](https://www.una.ac.cr/index.php/m-oferta-academica/sistemas-de-informacion-geografica-y-teledeteccion-maestria-en/visit) de las escuelas de geografía de la [Universidad de Costa Rica](https://www.ucr.ac.cr/) y la [Universidad Nacional](https://www.una.ac.cr/). Durante el segundo ciclo lectivo de 2019, el curso es impartido por [Manuel Vargas](https://github.com/mfvargas) en la [Escuela de Geografía de la Universidad de Costa Rica](https://www.geografia.fcs.ucr.ac.cr/).
 
 ### Contenido
-1. [La Internet y la Web](https://github.com/mfvargas/curso-programacion-web-geoespacial/diapositivas/internet-web.html)
+1. [La Internet y la Web](https://github.com/mfvargas/curso-programacion-web-geoespacial/temas/internet-web.html)
 2. [HTML]()
 
 ### Programa del curso
