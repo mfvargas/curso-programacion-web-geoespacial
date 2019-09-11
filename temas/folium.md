@@ -4,9 +4,9 @@ title: Folium
 
 ## Folium
 
-### Notebook de Jupyter
+### Taller
 
-- [HTML](https://mfvargas.github.io/taller-folium/)
+- [Folium](https://mfvargas.github.io/taller-folium/)
 
 ### Materiales adicionales
 
