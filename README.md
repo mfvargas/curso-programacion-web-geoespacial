@@ -6,6 +6,7 @@ Se recomienda acceder al curso a través de la dirección [https://mfvargas.gith
 1. [Internet y la Web](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/internet-web.html)
 2. [HTML](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/html.html)
 3. [CSS](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/css.html)
+4. [Folium](https://mfvargas.github.io/curso-programacion-web-geoespacial/temas/folium.html)
 
 ### Programa del curso
 [Versión en formato PDF](https://github.com/mfvargas/curso-programacion-web-geoespacial/blob/master/programa/programa-curso.pdf)
