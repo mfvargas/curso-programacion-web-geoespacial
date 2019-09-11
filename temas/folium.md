@@ -6,7 +6,7 @@ title: Folium
 
 ### Taller
 
-- [Folium](https://mfvargas.github.io/taller-folium/)
+- [Folium](https://github.com/mfvargas/taller-folium)
 
 ### Materiales adicionales
 
