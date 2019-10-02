@@ -4,7 +4,7 @@ title: JavaScript
 
 ## JavaScript
 
-### Taller
+### Diapositivas
 
 - [JavaScript](https://mfvargas.github.io/pres-javascript/)
 
