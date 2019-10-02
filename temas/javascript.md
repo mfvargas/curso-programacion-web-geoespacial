@@ -10,4 +10,6 @@ title: JavaScript
 
 ### Materiales adicionales
 
-Sitio oficial de Folium: [Folium](https://python-visualization.github.io/folium/)
+Tutoriales y referencia sobre JavaScript: [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+Tutoriales y referencia sobre JavaScript: [W3Schools - JavaScript](https://www.w3schools.com/js/)
