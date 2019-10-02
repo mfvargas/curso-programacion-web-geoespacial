@@ -6,7 +6,7 @@ title: JavaScript
 
 ### Taller
 
-- [JavaScript](https://github.com/mfvargas/pres-javascript)
+- [JavaScript](https://mfvargas.github.io/pres-javascript/)
 
 ### Materiales adicionales
 
