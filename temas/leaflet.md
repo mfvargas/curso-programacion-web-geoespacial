@@ -10,6 +10,8 @@ title: Leaflet
 
 ### Materiales adicionales
 
-Tutoriales y referencia sobre JavaScript: [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+Sitio oficial de Leaflet: [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
 
-Tutoriales y referencia sobre JavaScript: [W3Schools - JavaScript](https://www.w3schools.com/js/)
+Referencia del API: [Documentation - Leaflet](https://leafletjs.com/reference-1.5.0.html)
+
+Tutoriales: [Tutorials - Leaflet](https://leafletjs.com/examples.html)
