@@ -15,3 +15,7 @@ Sitio oficial de Leaflet: [Leaflet - a JavaScript library for interactive maps](
 Referencia del API: [Documentation - Leaflet](https://leafletjs.com/reference-1.5.0.html)
 
 Tutoriales: [Tutorials - Leaflet](https://leafletjs.com/examples.html)
+
+### Evaluaciones
+
+[Tarea 02]()
