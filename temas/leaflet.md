@@ -18,4 +18,4 @@ Tutoriales: [Tutorials - Leaflet](https://leafletjs.com/examples.html)
 
 ### Evaluaciones
 
-[Tarea 02](https://github.com/mfvargas/curso-programacion-web-geoespacial/blob/master/evaluaciones/tarea02)
+[Tarea 02](https://github.com/mfvargas/curso-programacion-web-geoespacial/blob/master/evaluaciones/tarea02.md)
