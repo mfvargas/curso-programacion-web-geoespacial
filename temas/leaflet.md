@@ -16,6 +16,8 @@ Referencia del API: [Documentation - Leaflet](https://leafletjs.com/reference-1.
 
 Tutoriales: [Tutorials - Leaflet](https://leafletjs.com/examples.html)
 
+Tutorial: [Filtrando datos geográficos en formato GeoJSON con Leaflet](https://mappinggis.com/2019/11/filtrando-datos-geograficos-en-formato-geojson-con-leaflet/)
+
 ### Evaluaciones
 
 [Tarea 02](https://mfvargas.github.io/curso-programacion-web-geoespacial/tarea02.html)
