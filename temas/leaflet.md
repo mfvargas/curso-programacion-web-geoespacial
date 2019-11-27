@@ -21,3 +21,4 @@ Tutorial: [Filtrando datos geográficos en formato GeoJSON con Leaflet](https://
 ### Evaluaciones
 
 [Tarea 02](https://mfvargas.github.io/curso-programacion-web-geoespacial/tarea02.html)
+[Proyecto](https://mfvargas.github.io/curso-programacion-web-geoespacial/proyecto.html)
